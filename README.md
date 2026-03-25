@@ -1,4 +1,4 @@
-# resumo-lab-cria-o-m-quina-virtual-DIO
+# resumo-lab-cria-o-maquina-virtual-DIO
 
 SLA (Service Level Agreement)
 Neste módulo, compreendemos que o SLA define os tempos de disponibilidade e que se paga pela rapidez e garantia desse atendimento.
